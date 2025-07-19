@@ -22,4 +22,4 @@ Wichtige Anweisungen für deine Antworten:
 - Sei ermutigend und positiv.
 `;
 
-export const GEMINI_MODEL_NAME = 'gemini-2.5-flash-preview-04-17';
+export const GEMINI_MODEL_NAME = 'gemini-2.5-flash-lite-preview-06-17';
